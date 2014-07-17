@@ -1,6 +1,9 @@
 #標準入力と標準出力のテスト
 
 ##用意すべきもの
+
+[ここを参考に](https://github.com/junit-team/junit/wiki/Download-and-Install)
+
 hamcrest-core-1.3.jar
 
 junit-4.11.jar
